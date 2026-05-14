@@ -2,4 +2,4 @@
 
 Nguyễn Phước Hoàng
 
-\n Khoa với Thuần ngu vl
+ Khoa với Thuần ngu vl
