@@ -27,7 +27,7 @@ const BoKhungChinh = ({ children }) => {
           </h1>
           <div className="flex items-center space-x-3">
             <span className="text-sm font-medium text-gray-600 italic">
-              Chào mừng, Admin
+              Chào mừng, Nguyễn Phước Hoàng
             </span>
             <div className="w-10 h-10 rounded-full bg-blue-600 border-2 border-blue-200"></div>
           </div>
@@ -36,7 +36,8 @@ const BoKhungChinh = ({ children }) => {
         {/* Vùng nội dung cuộn */}
         <main className="flex-1 overflow-y-auto p-8">
           <div className="max-w-6xl mx-auto">{children}</div>
-
+          <h1>Môn mã nguồn mở</h1>
+          <h2>- Bài tập 1</h2>
           {/* Footer nằm ở cuối nội dung chính */}
           <footer className="mt-20 py-8 border-t border-gray-200 text-center text-gray-400 text-sm">
             <p>© 2026 Bản quyền thuộc về dự án bài-tap-2</p>
